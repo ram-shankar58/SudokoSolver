@@ -1,4 +1,4 @@
-//SOlving a 9x9 sudoko using Backtracking method
+//SOlving a 9x9 sudoko using Backtracking method in a Naive way
 /* WE can fill the spaces using numbers 1-9. 
 A number 0 represents an empty space*/
 
